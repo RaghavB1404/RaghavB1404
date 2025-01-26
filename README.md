@@ -1,5 +1,5 @@
 Hey there, I’m Raghav! 👋
-Welcome to my corner of the coding universe! I'm a sophomore CS enthusiast with a passion for all things AI/ML and finance. If you're into the same groove or have some exciting projects brewing, let's connect and make some coding magic happen!
+Welcome to my corner of the coding universe! I'm a junior CS enthusiast with a passion for all things AI/ML and finance. If you're into the same groove or have some exciting projects brewing, let's connect and make some coding magic happen!
 
 What I Bring to the Table:
 
